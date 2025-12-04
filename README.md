@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://www.liblogo.com/img-logo/wi3564wb97-winx-club-logo-winx-club-3d-logo-f2u-by-jadeavon-on-.png" width="200"><br>
+<img src="https://img.utdstc.com/icon/eb9/2f8/eb92f8c801b00f6a1220e5e100ca551d5af1315874d2ef7e4929b2d6ceeac767:200" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/winx-dvd-ripper">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
